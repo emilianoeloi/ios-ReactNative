@@ -13,6 +13,8 @@ import React, {
 
 class VaiSabrina extends Component {
   render() {
+    var name = "Sabrina";
+    debugger;
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
